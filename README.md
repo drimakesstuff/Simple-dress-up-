@@ -27,3 +27,8 @@ npm install
 ```bash
 npm start
 ```
+
+---
+## Author
+
+Dri – BSc Data Science student
