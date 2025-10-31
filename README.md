@@ -31,5 +31,5 @@ npm start
 ---
 ## Author
 
-Dhriti – BSc Data Science student
+Dri – BSc Data Science student
 
